@@ -18,6 +18,11 @@
 [proxy_list]
 
 # MyList
+(^|\.)material\.io$
+(^|\.)forum\.xda-developers\.com$
+(^|\.)uplabs\.com$
+(^|\.)unsplash\.com$
+(^|\.)androidfilehost\.com$
 (^|\.)pinterest\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
