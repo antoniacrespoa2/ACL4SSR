@@ -11,11 +11,14 @@
 
 [bypass_all]
 ### 默认直连 自己可以自定义
+(^|\.)youku\.com$
+
 
 #**********************************************************************
 [proxy_list]
 
 # MyList
+(^|\.)pinterest\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
