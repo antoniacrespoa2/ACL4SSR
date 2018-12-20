@@ -18,6 +18,8 @@
 [proxy_list]
 
 # MyList
+(^|\.)apple\.com$
+(^|\.)itunes\.com$
 (^|\.)material\.io$
 (^|\.)forum\.xda-developers\.com$
 (^|\.)uplabs\.com$
