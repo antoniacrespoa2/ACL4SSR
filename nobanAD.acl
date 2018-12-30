@@ -24,6 +24,7 @@
 [proxy_all]
 # 默认代理
 
+
 #**********************************************************************
 [bypass_list]
 # 直连列表
@@ -291,7 +292,6 @@
 (^|\.)ssl-images-amazon\.com$
 (^|\.)sspai\.com$
 (^|\.)startssl\.com$
-(^|\.)steampowered\.com$
 (^|\.)suning\.com$
 (^|\.)taobao\.com$
 (^|\.)tencent\.com$
